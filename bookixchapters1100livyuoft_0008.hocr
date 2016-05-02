@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bookixchapters1100livyuoft_0008.png"; bbox 0 0 1779 2897; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 795 1317 990 1383">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 795 1317 990 1383">
+     <span class='ocr_line' id='line_1_1' title="bbox 795 1317 990 1383; baseline 0 -13"><span class='ocrx_word' id='word_1_1' title='bbox 795 1317 990 1383; x_wconf 68' lang='lat' dir='ltr'>Oxforb</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 415 1426 1375 1456">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 415 1426 1375 1456">
+     <span class='ocr_line' id='line_1_2' title="bbox 415 1426 1375 1456; baseline 0.001 -5"><span class='ocrx_word' id='word_1_2' title='bbox 415 1427 574 1451; x_wconf 77' lang='lat' dir='ltr'>HORACE</span> <span class='ocrx_word' id='word_1_3' title='bbox 600 1427 727 1456; x_wconf 76' lang='lat' dir='ltr'>HART,</span> <span class='ocrx_word' id='word_1_4' title='bbox 753 1427 929 1450; x_wconf 76' lang='lat' dir='ltr'>PRINTER</span> <span class='ocrx_word' id='word_1_5' title='bbox 951 1427 1004 1451; x_wconf 87' lang='lat' dir='ltr'>TO</span> <span class='ocrx_word' id='word_1_6' title='bbox 1027 1426 1110 1450; x_wconf 76' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1135 1427 1375 1452; x_wconf 80' lang='lat' dir='ltr'>UNIVERSITY</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
